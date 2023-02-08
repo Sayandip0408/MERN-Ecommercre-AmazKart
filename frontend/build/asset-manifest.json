@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cc1b47f9.chunk.css",
+    "main.js": "/static/js/main.828457e7.chunk.js",
+    "main.js.map": "/static/js/main.828457e7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e96c8499.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e96c8499.js.map",
+    "static/js/2.284383a2.chunk.js": "/static/js/2.284383a2.chunk.js",
+    "static/js/2.284383a2.chunk.js.map": "/static/js/2.284383a2.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.cc1b47f9.chunk.css.map": "/static/css/main.cc1b47f9.chunk.css.map",
+    "static/js/2.284383a2.chunk.js.LICENSE.txt": "/static/js/2.284383a2.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/static/media/123660.3062c383.png",
+    "static/media/Appstore.d0c58399.png": "/static/media/Appstore.d0c58399.png",
+    "static/media/Profile.697fdcd2.png": "/static/media/Profile.697fdcd2.png",
+    "static/media/SayanDip.f6342a99.jpeg": "/static/media/SayanDip.f6342a99.jpeg",
+    "static/media/playstore.82b48319.png": "/static/media/playstore.82b48319.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e96c8499.js",
+    "static/js/2.284383a2.chunk.js",
+    "static/css/main.cc1b47f9.chunk.css",
+    "static/js/main.828457e7.chunk.js"
+  ]
+}
